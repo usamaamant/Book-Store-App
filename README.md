@@ -1,5 +1,5 @@
 # Book-Store-App
-###  This is a Bookstore Application built using Django, Django REST Framework, Simple JWT, React, Redux Toolkit, Material UI, and Bootstrap. The application provides a comprehensive catalog of books with various features such as ecommerce facilities, search functionality, advanced filtering options, and PayPal integration.
+  This is a Bookstore Application built using Django, Django REST Framework, Simple JWT, React, Redux Toolkit, Material UI, and Bootstrap. The application provides a comprehensive catalog of books with various features such as ecommerce facilities, search functionality, advanced filtering options, and PayPal integration.
 
 ###  Features
 Book Catalog: The application offers a wide range of books with details such as title, author, description, cover image, price, and customer ratings.
